@@ -1,6 +1,6 @@
 # Xtrm
 
-Extremely borderless mechanical keyboard PCB. 40% staggered layout with an encoder, runs [QMK firmware](https://github.com/myst729/qmk_firmware/tree/master/keyboards/dg/xtrm).
+Extremely borderless mechanical keyboard. 40% staggered layout with an encoder, runs [QMK firmware](https://github.com/myst729/qmk_firmware/tree/master/keyboards/dg/xtrm).
 
 ![](images/xtrm.gif)
 
@@ -35,7 +35,7 @@ R3 | Ctrl  | GUI |     | Alt |     | Space |     | Fn  | Fn2 |  Left  | Down |  
 
 | Material         | Label               | Quantity | Picture                                   |
 | ---------------- | ------------------- | -------- | ----------------------------------------- |
-| ATmega32U4-AU    | U1                  | 1        | ![](images/materials/atmega32u4-au.jpg)   |
+| ATMEGA32U4-AU    | U1                  | 1        | ![](images/materials/atmega32u4-au.jpg)   |
 | PRTR5V0U2X       | U2                  | 1        | ![](images/materials/tvs-diode.jpg)       |
 | 16MHz Crystal    | X1                  | 1        | ![](images/materials/crystal-16mhz.jpg)   |
 | Type-C Connector | CN1                 | 1        | ![](images/materials/type-c.jpg)          |
